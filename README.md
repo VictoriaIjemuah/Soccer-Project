@@ -1,3 +1,5 @@
+![Header image showing soccer field](header_image.png)
+
 # Soccer Through the Ages
 
 This dataset contains information on international soccer games throughout the years. It includes results of soccer games and information about the players who scored the goals. The dataset contains data from 1872 up to 2023.
@@ -27,6 +29,7 @@ The following columns can be found in all datasets:
 - `away_team` - The team that played away
 
 These shared columns fully identify the game that was played and can be used to join data between the different CSV files.
+
 
 
 ### 📊 **Some guiding questions and visualization to help you explore this data:**
