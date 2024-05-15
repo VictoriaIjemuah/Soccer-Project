@@ -1,4 +1,4 @@
-![Header image showing soccer field](header_image.png)
+
 
 # Soccer Through the Ages
 
