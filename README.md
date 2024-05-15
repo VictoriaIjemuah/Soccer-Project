@@ -27,3 +27,12 @@ The following columns can be found in all datasets:
 - `away_team` - The team that played away
 
 These shared columns fully identify the game that was played and can be used to join data between the different CSV files.
+
+
+### 📊 **Some guiding questions and visualization to help you explore this data:**
+
+1. Which are the 15 countries that have won the most games since 1960? Show them in a horizontal bar plot.
+2. How many goals are scored in total in each minute of the game? Show this in a bar plot, with the minutes on the x-axis. If you're up for the challenge, you could even create an animated Plotly plot that shows how the distribution has changed over the years.
+3. Which 10 players have scored the most hat-tricks?
+4. What is the proportion of games won by each team at home and away? What is the difference between the proportions?
+5. How many games have been won by the home team? And by the away team?
